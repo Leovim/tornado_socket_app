@@ -26,10 +26,10 @@
       <file leaf-file-name="app.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1134">
+            <state line="27" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1188">
               <folding>
-                <marker date="1395245535000" expanded="true" signature="751:1149" placeholder="..." />
-                <marker date="1395245535000" expanded="true" signature="827:1111" placeholder="..." />
+                <marker date="1395271617000" expanded="true" signature="1200:1240" placeholder="..." />
+                <marker date="1395271617000" expanded="true" signature="1200:1202" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -38,7 +38,7 @@
       <file leaf-file-name="upload.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="8" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.21525423" vertical-offset="449" max-vertical-offset="1332">
+            <state line="34" column="8" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.21525423" vertical-offset="485" max-vertical-offset="1350">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -344,10 +344,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1134">
+        <state line="27" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1188">
           <folding>
-            <marker date="1395245535000" expanded="true" signature="751:1149" placeholder="..." />
-            <marker date="1395245535000" expanded="true" signature="827:1111" placeholder="..." />
+            <marker date="1395271617000" expanded="true" signature="1200:1240" placeholder="..." />
+            <marker date="1395271617000" expanded="true" signature="1200:1202" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -366,7 +366,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="8" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.21525423" vertical-offset="449" max-vertical-offset="1332">
+        <state line="34" column="8" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.21525423" vertical-offset="485" max-vertical-offset="1350">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
